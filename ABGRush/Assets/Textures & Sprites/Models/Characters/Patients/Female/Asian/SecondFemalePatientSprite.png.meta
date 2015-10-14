@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: ec2c170fe41f9eb41bdc2e61c337e0ba
+timeCreated: 1439432985
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SecondFemalePatientSprite_0
+    21300002: SecondFemalePatientSprite_1
+    21300004: SecondFemalePatientSprite_2
+    21300006: SecondFemalePatientSprite_3
+    21300008: SecondFemalePatientSprite_4
+    21300010: SecondFemalePatientSprite_5
+    21300012: SecondFemalePatientSprite_6
+    21300014: SecondFemalePatientSprite_7
+    21300016: SecondFemalePatientSprite_8
+    21300018: SecondFemalePatientSprite_9
+    21300020: SecondFemalePatientSprite_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SecondFemalePatientSprite_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 237
+        width: 68
+        height: 183
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 237
+        width: 68
+        height: 183
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 237
+        width: 68
+        height: 183
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 276
+        width: 68
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 276
+        width: 68
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 276
+        width: 68
+        height: 144
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 34
+        width: 78
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 77
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 34
+        width: 77
+        height: 182
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 74
+        height: 190
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondFemalePatientSprite_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 107
+        width: 67
+        height: 63
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

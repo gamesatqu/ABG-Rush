@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 43cfd6a733d703542b4a4304ee7af30a
+timeCreated: 1439012256
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SecondMalePatientSprite_0
+    21300002: SecondMalePatientSprite_1
+    21300004: SecondMalePatientSprite_2
+    21300006: SecondMalePatientSprite_3
+    21300008: SecondMalePatientSprite_4
+    21300010: SecondMalePatientSprite_5
+    21300012: SecondMalePatientSprite_6
+    21300014: SecondMalePatientSprite_7
+    21300016: SecondMalePatientSprite_8
+    21300018: SecondMalePatientSprite_9
+    21300020: SecondMalePatientSprite_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SecondMalePatientSprite_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 94
+        height: 204
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 262
+        width: 94
+        height: 203
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 261
+        width: 94
+        height: 203
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 293
+        width: 93
+        height: 172
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 293
+        width: 93
+        height: 172
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 293
+        width: 93
+        height: 174
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 99
+        height: 219
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 97
+        width: 81
+        height: 81
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 35
+        width: 80
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 80
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondMalePatientSprite_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 35
+        width: 80
+        height: 205
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

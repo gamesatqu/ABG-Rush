@@ -1,0 +1,270 @@
+<?xml version= '1.0' encoding='UTF-8'?>
+<Translations>
+
+	<English>
+
+		<ABG>
+			<RespiratoryOrMetabolic>Respiratory Or Metabolic</RespiratoryOrMetabolic>
+			<Respiratory>Respiratory</Respiratory>
+			<Metabolic>Metabolic</Metabolic>
+			<AcidosisOrAlkalosis>Acidosis or Alkalosis</AcidosisOrAlkalosis>
+			<Acidosis>Acidosis</Acidosis>
+			<Alkalosis>Alkalosis</Alkalosis>
+			<Compensation>Type of Compensation</Compensation>
+			<Uncompensated>Uncompensated</Uncompensated>
+			<PartialCompensation>Partial Compensation</PartialCompensation>
+			<Compensated>Compensated</Compensated>
+		</ABG>
+
+		<DiagnosisTool>
+			<e0>BLOODWORK</e0>
+			<e1>TIC TAC TOE</e1>
+			<e2>ACIDIC</e2>
+			<e3>NORMAL</e3>
+			<e4>ALKALINE</e4>
+			<e5>GIVE YOUR DIAGNOSIS!!!</e5>
+			<e6>RESET</e6>
+			<e7>SUBMIT</e7>
+			<e8>HELP</e8>
+		</DiagnosisTool>
+
+		<ExamRoom>
+			<e0>PATIENT HISTORY</e0>
+			<e1>DIAGNOSE</e1>
+			<e2>INFO</e2>
+			<e3>SIGNS AND SYMPTOMS</e3>
+			<e4>YOUR INITIAL ASSESSMENT:</e4>
+			<e5>SUBMIT</e5>
+			<e6>REQUEST BLOOD WORK</e6>
+			<e7>REQUESTED BLOOD WORK</e7>
+		</ExamRoom>
+
+		<Feedback>
+			<e0>Review:</e0>
+			<e1>Initial Assessment</e1>
+			<e2>Final Diagnosis</e2>
+			<e3>Close</e3>
+			<e4>Outstanding!</e4>
+			<e5>Good Work!</e5>
+			<e6>time bonus</e6>
+			<e7>Patients Treated</e7>
+		</Feedback>
+
+		<GameOver>
+			<e0>GAME OVER</e0>
+			<e1>Correctly Diagnosed Patients:</e1>
+			<e2>Patients Left Angry:</e2>
+			<e3>Correct Initial Assessments:</e3>
+			<e4>Close</e4>
+		</GameOver>
+
+		<WaitingRoom>
+			<e0>I can see you now.</e0>
+			<e1>I'll be with you soon.</e1>
+		</WaitingRoom>
+
+		<Tutorial>
+			<e0>TUTORIAL</e0>
+			<e1>BACK</e1>
+			<e2>NEXT</e2>
+			<e3>CLOSE</e3>
+			<e4>Click on a patient that has entered the waiting room.</e4>
+			<e5>View the patient history and signs and symptoms. Use the dropdown menu to make an initial assessment and then click “request blood work”.</e5>
+			<e6>When the blood work is complete, click on the patient to make a final diagnosis.</e6>
+			<e7>Correctly diagnose as many patients as you can. Click on the “Reference Desk” for information about ABG’s or to use the tic-tac-toe practice game.</e7>
+		</Tutorial>
+
+		<Reference>
+			<e0>REFERENCE</e0>
+			<e1>ABG PRACTICE</e1>
+			<e2>TOPICS</e2>
+			<e3>Hydrogen (pH)</e3>
+			<e4>Carbon dioxide (CO2)</e4>
+			<e5>Bicarbonate (HCO3-)</e5>
+			<e6>Respiratory Acidosis</e6>
+			<e7>Respiratory Alkalosis</e7>
+			<e8>Metabolic Acidosis</e8>
+			<e9>Metabolic Alkalosis</e9>
+			<e10>Compensation</e10>
+			<e11>The Chart</e11>
+		</Reference>
+
+
+		<ReferenceTitle>
+			<e3>What is the power of Hydrogen (pH)?</e3>
+			<e4>What is carbon dioxide (CO2)?</e4>
+			<e5>What is Bicarbonate (HCO3-)?</e5>
+			<e6>Respiratory Acidosis (Carbonic Acid Excess)</e6>
+			<e7>Respiratory Alkalosis (Carbonic Acid Deficit)</e7>
+			<e8>Metabolic Acidosis (Base Bicarbonate Deficit)</e8>
+			<e9>Metabolic Alkalosis (Base Bicarbonate Excess)</e9>
+			<e10>What is compensation?</e10>
+		</ReferenceTitle>
+
+		<Credits>
+			<e0>CREDITS</e0>
+		</Credits>
+
+		<Quit>
+			<e0>EXIT</e0>
+			<e1>Are you sure you want to quit? Your progress will not be saved.</e1>
+			<e2>Quit</e2>
+			<e3>Cancel</e3>
+		</Quit>
+
+		<ReferenceContent>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e3>Plasma pH (N= 7.35-7.45) is an indicator of the hydrogen ion (H+ ) concentration in the blood stream. The concentration of hydrogen in arterial blood is extremely important for determining acid-base balance because it tells about the acidity (acidosis) or alkalinity (alkalosis) of the blood. As the concentration of H+ goes up, the pH value goes down (&lt;7.35) and the blood becomes more acidic (acidosis). In reverse, as the concentration of H+ goes down, the pH value goes up (&gt;7.45) and the blood becomes more alkaline (alkalosis).[NewLine][NewLine]Maintaining homeostasis is a complex balancing act that depends upon every organ in the body. The homeostatic mechanisms, or internal self-regulating processes, that maintain a state of equilibrium in the body consist of buffer systems, the lungs and the kidneys.[NewLine][NewLine]When interpreting ABG results, always begin by deciding if the patient is within the normal ranges of acid &#8211; base balance (pH = 7.35-7.45). An abnormal condition is occurring when too many acids are being produced (pH &lt; 7.35). The body responds by allowing more base to accumulate. There is an abnormal condition occurring when too many bases are being produced (pH &gt; 7.45). The body responds by allowing more acids to accumulate. For whatever reason, when the normal ratio between bicarbonate (20 parts) and carbonic acid (1 part) is disrupted, pH changes.[NewLine][NewLine]The normal range for pH is 7.35 &#8211; 7.45.[NewLine][NewLine]When the body responds to changes in acid-base balance, or attempts to maintain homeostasis, it is called compensation. Plasma pH values, carbonic dioxide and bicarbonate levels give us clues about the changes and compensation for the changes but we will get to that after [BoldS]What is CO2[BoldF] and [BoldS]What is HCO3-[BoldF].</e3>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e4>Carbon dioxide is a gas produced in the body as a bi-product of metabolism. When dissolved in water, carbon dioxide becomes carbonic acid. An excess of carbonic acid in the body creates an acidotic state. The lungs regulate carbon dioxide gas by adjusting the rate and depth of ventilation. With too much carbon dioxide (&gt;45mEq/L), ventilation increases to blow off excess CO2. When there is too little carbon dioxide, (&lt;35mEq/L), ventilation slows to retain the CO2.[NewLine][NewLine]CO2 values obtained from arterial blood are an indicator of the carbon dioxide in the blood. If the CO2 is &gt;45mEq/L, then the blood becomes more acidotic. In reverse, if the CO2 is &lt;35mEq/L, then the blood will become more alkaline. The lungs can regulate the level of CO2 by increasing or decreasing the rate and depth of respirations.[NewLine][NewLine]The normal range is 35mEq/L to 45mEq/L of CO2.</e4>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e5>Bicarbonate is a salt and the most important buffer in the blood regulated by the kidney. Normal HCO3- values range from &gt;22mEq/L to &lt; 26 mEq/L, which is the measure of the level of bicarbonate in the blood stream. The body&#8217;s major extracellular buffer system is the bicarbonate-carbonic [BoldS]acid buffer[BoldF] system. The amount of bicarbonate generated by this system, or lack thereof, is assessed when measuring arterial blood gases. The kidneys can reabsorb and excrete in urine bicarbonate ions if there is too much (&gt;26 mEq/L) and the blood is in an alkaline state or the kidneys can regenerate and retain bicarbonate ions if there is too little (&lt; 22mEq/L) and the blood is acidic state.[NewLine][NewLine]If the normal ratio between bicarbonate (20 parts) and carbonic acid (1 part) is disrupted, the pH will change.[NewLine][NewLine]The normal range is 22mEq/L to 26 mEq/L of [BoldS]HCO3-[BoldF].</e5>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e6>Respiratory acidosis is an abnormal condition that occurs when the pH of the blood is less than 7.35 and the CO2 is greater than 45mEq/L. Respiratory acidosis is always the result of inadequate excretion of CO2 with inadequate rate and/or volume of ventilation, causing an increase in carbonic acid. The main cause of respiratory acidosis is hypoventilation (volume or depth of respiration) resulting from conditions that impair respiratory drive (toxins &#8211; sedative overdose or CNS disease) and airflow obstruction (sleep apnea, asthma, COPD, pneumonia, airway edema).  The lungs will compensate by increasing the rate and depth of respirations to decrease or blow off the excess CO2. The kidney is the most powerful compensatory mechanism but is slow in its rescue efforts. Over 3 &#8211; 5 days the kidneys will significantly increase HCO3- reabsorbtion to achieve a 20 &#8211; 1, HCO3- to carbonic acid ratio for homeostasis.[NewLine][NewLine]Early signs and symptoms of respiratory acidosis are headache, anxiety, irritability, blurred vision and restlessness, tachycardia, and hypoxia. Without treatment, other symptoms can occur such as sleepiness, tremors, delirium and eventually coma.[NewLine][NewLine]Treatment is to provide adequate ventilation, deep breathing &amp; coughing, positioning, chest physiotherapy, suctioning, oxygen as indicated, hydration, medications as indicated and to treat the cause.</e6>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e7>Respiratory alkalosis is an abnormal condition that occurs when the pH of arterial blood is greater than 7.45 and the CO2 is less than 35mEq/L. Respiratory alkalosis is always caused by hyperventilation which results in an excessive &#8220;blowing off&#8221; of CO2. Blowing off CO2 decreases the amount of carbonic acid that can be produced thereby lowering the acidity of the blood. The most common conditions that can result in respiratory alkalosis are panic attacks and anxiety but other abnormal conditions such as pain, drug overdose, the early phase of salicylate poisoning, fever, infection, brain injury, and hypoxia can cause hyperventilation and respiratory alkalosis. Pregnancy may also cause respiratory alkalosis.[NewLine][NewLine]Signs &amp; symptoms of respiratory alkalosis are dyspnea, xerostomia, dizziness, lightheadedness, numbness and tingling, inability to concentrate, heart palpitations, tachycardia, heart arrhythmias and sometimes loss of consciousness.[NewLine][NewLine]Treatment for respiratory alkalosis is directed at the underlying cause. Respiratory alkalosis caused by anxiety or a panic attack can be treated by having the patient breathe more slowly or into a paper bag, providing reassurance and restricting oxygen intake by with pursed-lip breathing or breathing through one nostril.</e7>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e8>Metabolic acidosis is an abnormal condition that occurs when the pH of arterial blood is less than 7.35 and the HCO3- concentration is less than 22 mEq/L. The condition begins in the kidneys when either they cannot eliminate enough acid (diabetic ketoacidosis, starvation, the late phase of salicylate poisoning, and methanol [wood alcohol] or ethylene glycol [antifreeze] poisoning, alcohol use, heart failure, dehydration or prolonged exercise) or when they eliminate too much bicarbonate (diarrhea, vomiting, diuretic therapy, or renal failure). The lungs will attempt to compensate with deep rapid respirations to eliminate CO2 and decrease carbonic acid production and the kidneys will excrete acidic urine with more Hydrogen ions.[NewLine][NewLine]Signs and symptoms of metabolic acidosis are deep rapid respirations, confusion, fatigue, headache and sleepiness, lack of appetite, nausea and vomiting, and fruity breath (diabetic acidosis/ketoacidosis). Physical assessment findings include low blood pressure, cold, clammy skin, arrhythmias and shock.[NewLine][NewLine]Treatment for metabolic acidosis is directed at treating the underlying cause and correcting fluid and electrolyte disturbances.</e8>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e9>Metabolic alkalosis is an abnormal condition that occurs when the pH of arterial blood is greater than 7.45 and the HCO3- concentration is greater than 26 mEq/L. The most common cause of metabolic alkalosis is diuretic therapy but nearly any condition in which the patient becomes hypokalemic may cause metabolic alkalosis. Another common cause of metabolic alkalosis is fluid volume losses from vomiting or gastric suctioning resulting in excess losses of hydrogen ions. Excessive steroid use may cause metabolic alkalosis and excessive ingestion of antacids containing sodium bicarbonate (Maalox, Milk of Magnesia, Pepto-Bismol, Rolaids, Tums, Mylanta) can also cause metabolic alkalosis. The lungs will compensate by decreasing the rate and depth of respirations resulting in a CO2 &gt;45mEq/L, and the kidneys will excrete alkalotic urine with more HCO3- ions.[NewLine][NewLine]Symptoms of metabolic alkalosis are not specific. Because hypokalemia is often present with metabolic alkalosis, there may be weakness, myalgia, polyuria, and cardiac arrhythmias.[NewLine][NewLine]Treatment for metabolic alkalosis depends upon the underlying cause and correcting fluid and electrolyte disturbances.[NewLine][NewLine]Signs and symptoms of metabolic acidosis are deep rapid respirations, confusion, fatigue, headache and sleepiness, lack of appetite, nausea and vomiting, and fruity breath (diabetic acidosis/ketoacidosis). Physical assessment findings include low blood pressure, cold, clammy skin, arrhythmias and shock.[NewLine][NewLine]Treatment for metabolic acidosis is directed at treating the underlying cause and correcting fluid and electrolyte disturbances.</e9>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e10>The pulmonary and the renal systems work together (compensate for each other) to keep the pH within the normal range (7.35 &#8211; 7.45). To explain, think of the lungs and the kidneys as business partners whose job is to maintain their work relationship at a 20 &#8211; 1 ratio. As you recall, a 20 &#8211; 1 ratio, bicarbonate to carbonic acid, keeps pH on task and within the normal range. When there is full compensation one of the partners (lungs or kidneys) has fully compensated for the other by maintaining the 20 &#8211; 1 ratio and therefore keeping the pH within a normal range. For example, fully compensated respiratory acidosis would look something like this, and this is arbitrary &#8211; do not try to figure out if the ratio is accurate since that is well beyond the scope of this reference tip![NewLine][NewLine]pH 7.38  	CO2     50       	 HCO3-   30[NewLine][NewLine]The pH is normal but the CO2 value tells us that the patient is acidotic and that the acidosis is in some way related to the pulmonary system. More information about the patient would inform us what the problem might be, for example asthma or a sedative overdose. Fortunately, CO2&#8217;s partner HCO3-   is working very hard to maintain the 20 -1 ratio and has been successful enough to keep pH within the normal range. Therefore, the patient is in respiratory acidosis and is [BoldS]fully compensating[BoldF] for the acid-base imbalance which is being caused by some abnormal respiratory condition.[NewLine][NewLine]On the other hand, if HCO3- had been a slacker or had not quite gotten up to speed, the pH would be less than 7.35 (acidotic) and we would say that the patient is in respiratory acidosis and is [BoldS]partially compensating[BoldF] for the acid &#8211; base imbalance. The ABG results would look something like this:[NewLine][NewLine]pH 7.31  	CO2     50       	 HCO3-   30[NewLine][NewLine]The same principle applies to a metabolic imbalance but in that case the bicarbonate informs us that a metabolic condition exists. Therefore, the CO2 would be compensating/partially compensating for HCO3-.[NewLine][NewLine]The accompanying chart may be helpful in seeing the number values associated with each imbalance but the numbers are only one part of the picture. The signs and symptoms a patient reports or exhibits are essential for understanding the patient&#8217;s condition and deciding upon the medical and nursing care management.</e10>
+		</ReferenceContent>
+
+		
+	</English>
+
+<Spanish>
+
+		<ABG>
+			<RespiratoryOrMetabolic>Respiratoria o Metabólica</RespiratoryOrMetabolic>
+			<Respiratory>Respiratoria</Respiratory>
+			<Metabolic>Metabólica</Metabolic>
+			<AcidosisOrAlkalosis>Acidosis o Alcalosis</AcidosisOrAlkalosis>
+			<Acidosis>Acidosis</Acidosis>
+			<Alkalosis>Alcalosis</Alkalosis>
+			<Compensation>Compensación</Compensation>
+			<Uncompensated>No Compensada</Uncompensated>
+			<PartialCompensation>Compensación Parcial</PartialCompensation>
+			<Compensated>Compensada</Compensated>
+		</ABG>
+
+		<DiagnosisTool>
+			<e0>ANÁLISIS DE SANGRE</e0><!-- done -->
+			<e1>TRES EN RAYA</e1><!-- done -->
+			<e2>ACÍDICA</e2><!-- done -->
+			<e3>NORMAL</e3><!-- done -->
+			<e4>ALCALINA</e4><!-- done -->
+			<e5>¡DÉ SU DIAGNÓSTICO!</e5><!-- done -->
+			<e6>REINCIAR</e6><!-- done -->
+			<e7>ENVIAR</e7><!-- done -->
+			<e8>AYUDA</e8><!-- done -->
+		</DiagnosisTool>
+
+		<ExamRoom>
+			<e0>HISTORIAL DEL PACIENTE</e0><!-- done -->
+			<e1>DIAGNÓSTICO</e1><!-- done -->
+			<e2>INFORMACIÓN</e2><!-- done -->
+			<e3>SIGNOS VITALES Y SÍNTOMAS</e3>
+			<e4>SU EVALUACIÓN INICIAL:</e4>
+			<e5>ENVIAR</e5><!-- done -->
+			<e6>PEDIR ANÁLISIS DE SANGRE</e6><!-- done -->
+			<e7>RESULTADOS DEL ANÁLISIS DE SANGRE</e7>
+		</ExamRoom>
+
+		<Feedback>
+			<e0>Repasar:</e0>
+			<e1>Evaluación inicial</e1>
+			<e2>Diagnóstico final</e2>
+			<e3>Close</e3>
+			<e4>¡Excelente!</e4>
+			<e5>¡Buen trabajo!</e5>
+			<e6>tiempo extra gratis</e6>
+			<e7>Pacientes atendidos</e7>
+		</Feedback>
+
+		<GameOver>
+			<e0>FIN DEL JUEGO</e0>
+			<e1>Pacientes diagnosticados correctamente:</e1>
+			<e2>Patientes que se fueron enojados:</e2>
+			<e3>Evaluaciones iniciales correctas:</e3>
+			<e4>Cerrar</e4>
+		</GameOver>
+
+		<WaitingRoom>
+			<e0>Ahora le puedo atender.</e0><!-- done -->
+			<e1>En breve le voy a atender.</e1><!-- done -->
+		</WaitingRoom>
+
+		<Tutorial>
+			<e0>TUTORIAL</e0>
+			<e1>ATR&#193;S</e1>
+			<e2>SIGUIENTE</e2>
+			<e3>CIERRE</e3>
+			<e4>Haga clic en el paciente que acaba de entrar a la sala de espera.</e4>
+			<e5>Revise el historial del paciente, los signos vitales y los s&#237;ntomas. Use el men&#250; desplegable para hacer una evaluaci&#243;n inicial del paciente y luego haga clic bajo "pedir an&#225;lisis de sangre.</e5>
+			<e6>Cuando reciba los resultados del an&#225;lisis de sangre, haga clic en el paciente para dar el diagn&#243;stico final.</e6>
+			<e7>D&#233; el diagn&#243;stico correcto para todos los pacientes que pueda.  Haga clic en “Sala de Referencia” para informaci&#243;n sobre GSA o para usar el juego de pr&#225;ctica.</e7>
+		</Tutorial>
+
+		<Reference>
+			<e0>Referencia</e0>
+			<e1>Pr&#225;ctica</e1>
+			<e2>Temas</e2>
+			<e3>Hidr&#243;geno (pH)</e3>
+			<e4>Di&#243;xido de carbono (CO2)</e4>
+			<e5>Bicarbonato (HCO3-)</e5>
+			<e6>Acidosis respiratoria</e6>
+			<e7>Alcalosis respiratoria</e7>
+			<e8>Acidosis metab&#243;lica</e8>
+			<e9>Alcalosis metab&#243;lica</e9>
+			<e10>Compensaci&#243;n</e10>
+			<e11>Tabla</e11>
+		</Reference>
+
+
+		<ReferenceTitle>
+			<e3>&#191;Qu&#233; es el potencial del hidr&#243;geno (pH)?</e3>
+			<e4>&#191;Qu&#233; es el di&#243;xido de carbono (CO2)?</e4>
+			<e5>&#191;Qu&#233; es el bicarbonato (HCO3-)?</e5>
+			<e6>Acidosis Respiratoria  (Exceso de &#225;cido carb&#243;nico)</e6>
+			<e7>Alcalosis Respiratoria (Deficiencia de &#225;cido carb&#243;nico)</e7>
+			<e8>La Acidosis Metab&#243;lica (Deficiencia de Base Bicarbonato)</e8>
+			<e9>Alcalosis metab&#243;lica (Exceso de base bicarbonato)</e9>
+			<e10>&#191;Qu&#233; es la compensaci&#243;n?</e10>
+		</ReferenceTitle>
+
+		<Credits>
+			<e0>CRÉDITOS</e0>
+		</Credits>
+
+		<Quit>
+			<e0>SALIDA</e0>
+			<e1>¿Seguro que quieres salir? No se guardará tu progreso.</e1>
+			<e2>Dejar</e2>
+			<e3>Cancelar</e3>
+		</Quit>
+
+		<ReferenceContent>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e3>El pH del plasma (N=7.35-7.45) es un indicador de la concentraci&#243;n de ion hidr&#243;geno (H+ ) en el torrente sangu&#237;neo.  La concentraci&#243;n  hidr&#243;geno en la sangre arterial es sumamente importante para determinar un balance que indica la acidez (acidosis) o la alcalinidad (alcalosis) de la sangre. A medida que la concentraci&#243;n de H+ va subiendo, el valor del pH disminuye (&lt;7.35) y la sangre se vuelve m&#225;s &#225;cida (acidosis).  Por el contrario, mientras la concentraci&#243;n de H+ va disminuyendo, el valor del pH incrementa (&gt;7.45) y la sangre se vuelve m&#225;s alcalina (alcalosis).[NewLine][NewLine]Mantener la homeostasis es un proceso complejo de equilibrio que depende de cada &#243;rgano del cuerpo.  Los mecanismos de la homeostasis, o procesos internos de auto regulaci&#243;n, que mantienen un estado de equilibrio en el cuerpo, constan de los sistemas buffer (tampones), los pulmones y los ri&#241;ones.[NewLine][NewLine]A la hora de interpretar los resultados de GSA, siempre debe empezar por decidir si la medida de &#225;cido-b&#225;sico est&#225; dentro de los niveles normales de &#225;cido (pH = 7.35-7.45).  Una condici&#243;n anormal se presenta cuando una cantidad alta de &#225;cidos es producida (pH &lt;7.35).  El cuerpo responde por dejar la acumulaci&#243;n de m&#225;s base. Hay una condici&#243;n anormal cuando una alta cantidad de bases est&#225; presente (pH &gt;7.45).  El cuerpo responde por dejar la acumulaci&#243;n de m&#225;s &#225;cidos.  Sea por lo que sea, cuando la proporci&#243;n entre el bicarbonato (20 partes) y &#225;cido carb&#243;nico (1 parte) se altera, el pH cambia.[NewLine][NewLine]Los valores normales del pH son 7.35 -7.45[NewLine][NewLine]Cuando el cuerpo responde a cambios en el equilibrio &#225;cido-base, o si intenta mantener la homeostasis, esto es conocido por el t&#233;rmino compensaci&#243;n.  Los niveles de pH en el plasma, el di&#243;xido de carbono y el bicarbonato nos ayudan a entender los cambios y la compensaci&#243;n para los cambios. No obstante, investigaremos m&#225;s estos temas despu&#233;s de examinar, &#191;Qu&#233; es [BoldS]CO2[BoldF] ? y &#191;Qu&#233; es HCO3 ?</e3>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e4>El di&#243;xido de carbono es un gas que se produce en el cuerpo como derivado del metabolismo. Cuando se disuelve en agua, el di&#243;xido de carbono se convierte en &#225;cido carb&#243;nico. Un exceso de &#225;cido carb&#243;nico crea un estado de acidosis.  Los pulmones regulan el di&#243;xido de carbono por ajustar el ritmo y la profundidad de la ventilaci&#243;n.  Si hay un exceso de di&#243;xido de carbono (&gt;45mEq/L), la ventilaci&#243;n incrementa para disminuir el exceso de CO2. Cuando no hay suficiente di&#243;xido de carbono, (&lt;35mEq/L), la ventilaci&#243;n se reduce para mantener el CO2.[NewLine][NewLine]Los valores de CO2  obtenidos de la sangre arterial indican el valor de CO2 en la sangre.    Si el CO2  es &gt;45mEq/L, la sangre se vuelve &#225;cida.  Por el contrario, si el CO2 es &lt;35mEq/L, la sangre se vuelve m&#225;s alcalina.  Los pulmones pueden regular el nivel de CO2 al incrementar o disminuir el ritmo y la profundidad de las respiraciones.[NewLine][NewLine]Los valores normales son 35mEq/L a 45mEq/L de CO2.</e4>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e5>El bicarbonato es una sal regulada por los ri&#241;ones y el buffer m&#225;s importante de la sangre. Los valores normales de HCO3 var&#237;an de &gt;22mEq/L a &lt; 26 mEq/L, esta es la medida del bicarbonato en el flujo sangu&#237;neo. El principal sistema amortiguador extracelular del cuerpo es el  tamp&#243;n &#225;cido bicarbonato-carb&#243;nico.  La cantidad de bicarbonato producida por este sistema, o la falta de su producci&#243;n se eval&#250;a al medir los gases sangu&#237;neos arteriales.    Los ri&#241;ones pueden reabsorber y excretar iones bicarbonatos en la orina si hay un exceso (&gt;26 mEq/L) y si la sangre est&#225; en un estado alcalino, o los ri&#241;ones pueden regenerar y retener iones bicarbonatos si hay poco (&lt; 22mEq/L) y la sangre est&#225; &#225;cida.[NewLine][NewLine]Si la proporci&#243;n normal entre el bicarbonato (20 partes) y el &#225;cido carb&#243;nico (1 parte) est&#225; afectada, el pH cambiar&#225;.[NewLine][NewLine]Los valores normales son 22mEq/L a 26 mEq/L de[BoldS] HCO3-[BoldF].</e5>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e6>La acidosis respiratoria es una condici&#243;n anormal que ocurre cuando el valor del pH de la sangre es menor de 7.35 y el valor de CO2 es m&#225;s de 45mEq/L.  La acidosis respiratoria es siempre el resultado de una excreci&#243;n inadecuada de CO2 con un ritmo y/o volumen inadecuado de ventilaci&#243;n, la cual causa un aumento de &#225;cido carb&#243;nico. La causa principal de la acidosis respiratoria es la hipoventilaci&#243;n (el volumen o la profundidad de la respiraci&#243;n), un estado causado por condiciones que afectan el impulso respiratorio (toxinas &#8211; una sobredosis de sedantes o una enfermedad del sistema central nervioso y la obstrucci&#243;n respiratoria (la apnea del sue&#241;o, el asma, EPOC, la pulmon&#237;a, el edema de las v&#237;as respiratorias).  Los pulmones compensan por incrementar el ritmo y la profundidad de las respiraciones para reducir el exceso de CO2.  El ri&#241;&#243;n es el mecanismo compensatorio m&#225;s poderoso pero es lento en sus esfuerzos de rescatar.  Durante un periodo de 3 a 5 d&#237;as los ri&#241;ones incrementar&#225;n la reabsorci&#243;n para lograr la homeostasis con una proporci&#243;n de 20-1, HCO3 a &#225;cido carb&#243;nico.[NewLine][NewLine]Las se&#241;ales y los s&#237;ntomas tempranos de acidosis respiratoria son dolores de cabeza, ansiedad, irritabilidad, visi&#243;n borrosa, agitaci&#243;n, taquicardia, e hipoxia.  Sin tratamiento, otros s&#237;ntomas pueden ocurrir tales como el insomnio, temblores, el delirio, y con el tiempo, un estado de coma.[NewLine][NewLine]El tratamiento incluye ventilaci&#243;n adecuada, respiraci&#243;n profunda y tos, posicionamiento, fisioterapia tor&#225;cica y respiratoria, succi&#243;n, ox&#237;geno seg&#250;n sea indicado, hidrataci&#243;n y medicamentos seg&#250;n sea indicado para tratar la causa de la condici&#243;n.</e6>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e7>La alcalosis respiratoria es una condici&#243;n anormal que ocurre cuando el nivel de pH de la sangre arterial es m&#225;s de 7.45 y el nivel de CO2 es menos de 35mEq/L.  La hiperventilaci&#243;n, que resulta en la eliminaci&#243;n excesiva de CO2 es siempre la causa de la alcalosis respiratoria.  Expulsar CO2 reduce la cantidad de &#225;cido carb&#243;nico que se puede producir y de este modo reduce la acidez de la sangre.  Las condiciones m&#225;s comunes que provocan  la alcalosis respiratoria son los ataques de p&#225;nico y la ansiedad pero hay otras condiciones anormales tales como el dolor, una sobredosis de drogas, la fase temprana de la intoxicaci&#243;n por salicilatos, fiebre, infecci&#243;n, da&#241;o cerebral, e hipoxia pueden causar la hiperventilaci&#243;n y la alcalosis respiratoria.  El embarazo tambi&#233;n puede causar la alcalosis respiratoria.[NewLine][NewLine]Las se&#241;ales y los s&#237;ntomas de la alcalosis respiratoria son disnea, xerostomia, v&#233;rtigo, mareo, adormecimiento y hormigueo, incapacidad para concentrarse, palpitaciones, taquicardia, arritmias card&#237;acas y a veces desmayo.[NewLine][NewLine]El tratamiento para la alcalosis respiratoria est&#225; orientado a la causa subyacente.  El tratamiento para un paciente con la alcalosis respiratoria ocasionada por la ansiedad o un ataque de p&#225;nico incluye lo siguiente: respirar m&#225;s despacio, respirar colocando una bolsa de papel sobre su boca y nariz, tranquilizar al paciente y restringir la aspiraci&#243;n del ox&#237;geno con los labios fruncidos o la respiraci&#243;n por una fosa nasal.</e7>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e8>La acidosis metab&#243;lica es una condici&#243;n anormal que ocurre cuando el nivel de pH de la sangre arterial es menos de 7.35 y la concentraci&#243;n de HCO3- es menor de 22 mEq/L.  La condici&#243;n comienza en los ri&#241;ones cuando no pueden eliminar suficiente &#225;cido (la cetoacidosis/la acidosis diab&#233;tica, la inanici&#243;n, la fase tard&#237;a de intoxicaci&#243;n por salicilatos, y por metanol (alcohol met&#237;lico) o etilenglicol (anticongelante), el consumo de alcohol, la insuficiencia card&#237;aca, la deshidrataci&#243;n o el ejercicio prolongado) o cuando eliminan un exceso de bicarbonato (diarrea, v&#243;mitos, terapia diur&#233;tica, o la insuficiencia renal.) Los pulmones tratan de compensar con respiraciones profundas y r&#225;pidas para eliminar CO2 y para reducir la producci&#243;n de &#225;cido carb&#243;nico y los ri&#241;ones excretan la orina &#225;cidica con m&#225;s iones de hidr&#243;geno.[NewLine][NewLine]Las se&#241;ales y los s&#237;ntomas de la acidosis metab&#243;lica son respiraciones r&#225;pidas y profundas, confusi&#243;n, fatiga, dolores de cabeza y sue&#241;o, falta de apetito, nausea y v&#243;mitos, y un aliento que huele a frutas (acidosis/cetoacidosis diab&#233;tica). S&#237;ntomas f&#237;sicas incluyen la presi&#243;n arterial baja, la piel fr&#237;a y h&#250;meda, arritmias y shock.[NewLine][NewLine]Tratamiento para la acidosis metab&#243;lica est&#225; orientado a la causa subyacente y la correcci&#243;n de las alteraciones de l&#237;quidos corporales y electrolitos.</e8>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e9>La alcalosis metab&#243;lica es una condici&#243;n anormal que ocurre cuando el pH de la sangre arterial es m&#225;s de 7.45 y la concentraci&#243;n de HCO3- es menos de 26 mEq/L.  La causa m&#225;s com&#250;n de la alcalosis metab&#243;lica es la terapia diur&#233;tica. No obstante, cualquier condici&#243;n en la cual el paciente se vuelve hipocali&#233;mico puede provocar la alcalosis metab&#243;lica.  Otra causa com&#250;n que resulta en la p&#233;rdida excesiva de iones de hidr&#243;geno y que tambi&#233;n puede provocar la alcalosis metab&#243;lica es la p&#233;rdida de fluidos provocada por v&#243;mitos o la succi&#243;n g&#225;strica. El uso excesivo de esteroides puede provocar la alcalosis metab&#243;lica y la ingesti&#243;n excesiva de anti&#225;cidos que contienen bicarbonato de sodio (Maalox, leche de magnesia, Pepto-Bismol, Rolaids, Tums, Mylanta) tambi&#233;n pueden provocar la alcalosis metab&#243;lica.  Los pulmones compensan por disminuir el ritmo y la profundidad de respiraciones con un resultado de CO2 &gt;45mEq/L, y los ri&#241;ones excretan orina alcalina con m&#225;s iones HCO3.[NewLine][NewLine]Los s&#237;ntomas de la alcalosis metab&#243;lica no son espec&#237;ficas. Dado que la hipocalcemia se presenta con la alcalosis metab&#243;lica, puede haber debilidad, mialgia, poliuria, y arritmias card&#237;acas.</e9>
+			<!--In order to Insert a New Line or Carriage Return / Enter Button Insert [NewLine] -->
+			<e10>Los sistemas pulmonares y renales trabajan juntos (se compensan) para mantener el pH dentro de los valores normales (7.35 &#8211; 7.45).  Es decir, imagina que los pulmones y los ri&#241;ones son socios cuyo trabajo es mantener su relaci&#243;n laboral en una proporci&#243;n de 20-1.  Como recordar&#225;s, una proporci&#243;n 20-1, bicarbonato - &#225;cido carb&#243;nico, mantiene el pH dentro de sus niveles normales.  Cuando hay una compensaci&#243;n completa, uno de los socios (los pulmones o los ri&#241;ones) ha compensado por completo por el otro para mantener la proporci&#243;n de 20-1 y por lo tanto mantiene el pH dentro de los niveles normales.  Por ejemplo, la acidosis respiratoria compensada por completo tendr&#237;a un aspecto as&#237; por el estilo, y es arbitrario, no trates de averiguar si la proporci&#243;n es correcta ya que abarca mucho m&#225;s que lo que pretendemos cubrir en esta sala de referencia.[NewLine][NewLine]pH 7.38  	CO2     50       	 HCO3-   30[NewLine][NewLine]El pH est&#225; normal pero el nivel del CO2 nos indica que la sangre del paciente est&#225; &#225;cida y la acidosis est&#225; relacionada de alguna manera con el sistema pulmonar.  Hace falta conseguir m&#225;s informaci&#243;n sobre el paciente para indicarnos cu&#225;l es el problema, como por ejemplo asma o una sobredosis de sedantes.  Afortunadamente, el socio de CO2, , HCO3 trabaja con mucho esfuerzo para mantener la proporci&#243;n de 20 -1 y ha tenido el suficiente &#233;xito para mantener el pH dentro de los niveles normales.  De este modo, el paciente tiene una acidosis respiratoria y est&#225; compensando por completo el desequilibrio &#225;cido-base que fue provocado por alguna condici&#243;n respiratoria anormal.[NewLine][NewLine]Por otro lado, si el HCO3- hubiera sido perezoso o si no hubiera conseguido la velocidad necesaria, el pH habr&#237;a sido menos de 7.35 (&#225;cido) y tendr&#237;amos que decir que el paciente tiene una acidosis respiratoria compensada parcialmente por el desequilibrio &#225;cido-base.  Los resultados de GSA tendr&#237;an el siguiente aspecto:[NewLine][NewLine]pH 7.31  	CO2     50       	 HCO3-   30[NewLine][NewLine]El mismo principio se aplica a un desequilibrio metab&#243;lico pero en ese caso el bicarbonato nos informa que una condici&#243;n metab&#243;lica existe.  De este modo, el CO2 estar&#237;a compensando parcialmente por el HCO3-.[NewLine][NewLine]La tabla a continuaci&#243;n puede ser &#250;til para ver los valores de los n&#250;meros asociados con cada desequilibrio.  No obstante los n&#250;meros son s&#243;lo una parte del diagn&#243;stico.  Las se&#241;ales y los s&#237;ntomas que el paciente comunica o muestra son fundamentales para entender la condici&#243;n del paciente a la hora de decidir el plan de cuidados m&#233;dicos y de enfermer&#237;a.</e10>
+		</ReferenceContent>
+		
+	</Spanish>
+
+
+</Translations>

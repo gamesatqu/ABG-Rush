@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{2E1F8AA3-6796-F0C1-1DC1-F5AB7D6D034A}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_WEBPLAYER;ENABLE_SUBSTANCE;WEBPLUG;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\External Assistance\Aspect Ratio\AspectUtility.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\AStar.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\ClickToMove.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\Heap.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\MoveBetween.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\PolyNav2D.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\PolyNavAgent.cs" />
+     <Compile Include="Assets\External Assistance\PolyNav2D\Scripts\Runtime\PolyNavObstacle.cs" />
+     <Compile Include="Assets\Scripts\Classes\ABG.cs" />
+     <Compile Include="Assets\Scripts\Classes\Diagnosis.cs" />
+     <Compile Include="Assets\Scripts\Humanoids\Nurse.cs" />
+     <Compile Include="Assets\Scripts\Humanoids\Patient.cs" />
+     <Compile Include="Assets\Scripts\Humanoids\Person.cs" />
+     <Compile Include="Assets\Scripts\Objects\ExamRoom.cs" />
+     <Compile Include="Assets\Scripts\Objects\ExamRoomComputer.cs" />
+     <Compile Include="Assets\Scripts\Objects\ExitSign.cs" />
+     <Compile Include="Assets\Scripts\Objects\Manager.cs" />
+     <Compile Include="Assets\Scripts\Objects\OfficeObject.cs" />
+     <Compile Include="Assets\Scripts\Objects\ReferenceDesk.cs" />
+     <Compile Include="Assets\Scripts\Objects\Sink.cs" />
+     <Compile Include="Assets\Scripts\Objects\Triage.cs" />
+     <Compile Include="Assets\Scripts\Objects\WaitingChair.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\ABGToolManagerScript.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\ABGToolSliderScript.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\ABGWW_Help_Script.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\DragAndDropManagerScript.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\DragMe.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\DropMe.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\NotificationManagerScript.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\PatientObject.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\PlaceHolderNavScript.cs" />
+     <Compile Include="Assets\Scripts\Obsolete\UIReferenceTopic.cs" />
+     <Compile Include="Assets\Scripts\Sound\InterfaceSounds.cs" />
+     <Compile Include="Assets\Scripts\Sound\MuteButton.cs" />
+     <Compile Include="Assets\Scripts\Sound\SoundManager.cs" />
+     <Compile Include="Assets\Scripts\Sound\SoundPop.cs" />
+     <Compile Include="Assets\Scripts\Translation\LanguageManager.cs" />
+     <Compile Include="Assets\Scripts\Translation\LanguageSprite.cs" />
+     <Compile Include="Assets\Scripts\Translation\LanguageText.cs" />
+     <Compile Include="Assets\Scripts\Translation\LanguageUIImage.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\ABG Diagnosis Tool\DiagnosisTool.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\ABG Diagnosis Tool\DragAndDropSlot.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\ABG Diagnosis Tool\DragHandler.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\GameplayUIScript.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\SatisfactionBarScript.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\SatisfactionBoostTextScript.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UIQuit.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_ExamRoom.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_ExamRoomComputer.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_GameOver.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_Patient.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_PatientFeedback.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_Triage.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Gameplay UI\UI_WaitingChair.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Main Menu\MainMenuUIScript.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Main Menu\UICredits.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Reference Desk\UIReferenceDesk.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Tutorial\Tutorial.cs" />
+     <None Include="Assets\Resources\ABGRushTranslations.xml" />
+     <None Include="Assets\Fonts\Raleway\OFL.txt" />
+     <None Include="Assets\Resources\NursingInterventions.xml" />
+     <None Include="Assets\Fonts\Paytone_One\OFL.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

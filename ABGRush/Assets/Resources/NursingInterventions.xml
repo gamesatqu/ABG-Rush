@@ -1,0 +1,239 @@
+<?xml version= '1.0' encoding='UTF-8'?>
+<NursingInterventions>
+	<Intervention>
+		
+		<English>
+			<Diagnosis>
+				<RespiratoryMetabolic>Respiratory</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Acidosis</AcidosisAlkalosis>
+				<Compensation>Uncompensated</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hello, I'm in terrible pain. I was trimming my hedges yesterday and feel off a ladder.</Greeting>
+
+			<SignsAndSymptoms>
+				<!--Information received after looking over the patient. Slow and Labored Breathing, Cyanotic Fingertips, etc.-->
+				<Element>Pain of 8 on scale of 1 - 10</Element>
+				<Element>Respiratory rate 12 breaths per minute</Element>
+				<Element>Slow and labored breathing</Element>
+				<Element>Cyanotic fingernails and lips</Element>
+				<Element>Vital signs: T 98.4F, P 60, R 12, BP 110/70, O2 Sat 92%</Element>
+			</SignsAndSymptoms>
+
+			<History>
+				<!--Information about why the patient is here. Broken Leg, Stomach Aches, etc. -->
+				<Element>Fell off a ladder yesterday</Element>
+				<Element>No broken bones</Element>
+				<Element>Taking a narcotic pain reliever</Element>
+				<Element>Having trouble staying awake</Element>
+				
+			</History>
+
+		</English>
+
+		<Spanish>
+			<Diagnosis>
+				<RespiratoryMetabolic>Respiratoria</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Acidosis</AcidosisAlkalosis>
+				<Compensation>No Compensada</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hola, tengo dolores severos. Estaba recortando los arbustos de mi casa ayer y me caí de la escalera.</Greeting>
+
+			<SignsAndSymptoms>
+				<Element>Dolor es un 8 en una escala de 1 a 10</Element>
+				<Element>Frecuencia respiratoria 12 respiros al minuto</Element>
+				<Element>Respiración lenta y trabajosa</Element>
+				<Element>Cianosis en las uñas y los labios</Element>
+				<Element>Signos vitales: T 98.4°F, P 60, R 12, BP 110/70, O2 Sat 92%</Element>
+			</SignsAndSymptoms>
+
+			<History>
+				<Element>Se cayó de una escalera el día anterior</Element>
+				<Element>No tiene huesos quebrados</Element>
+				<Element>Toma narcóticos para aliviar el dolor</Element>
+				<Element>Dificultad en mantenerse despierta</Element>
+				
+			</History>
+
+		</Spanish>
+
+	</Intervention>
+
+	<Intervention>
+		
+
+		<English>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Metabolic</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Alkalosis</AcidosisAlkalosis>
+				<Compensation>Compensated</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hello, I've got stomach cramps and I have been vomiting.</Greeting>
+
+			<SignsAndSymptoms>
+				<!--Information received after looking over the patient. Slow and Labored Breathing, Cyanotic Fingertips, etc. Create as many element entries as needed. Copy and paste "<Element> WRITE HERE  </Element>" onto a new line-->
+				<Element>Pain of 6 on scale of 1 - 10</Element>
+				<Element>Hyperactive bowel sounds</Element>
+				<Element>Vital signs: T 99F, P 82, R 14, BP 102/68, O2 Sat 96%</Element>
+
+			</SignsAndSymptoms>
+
+			<History>
+				<!--Information about why the patient is here. Broken Leg, Stomach Aches, etc. -->
+				<Element>Ate in a delicatessen yesterday</Element>
+				<Element>Nausea and vomiting large amounts of green fluid</Element>
+				<Element>Feels weak</Element>
+
+			</History>
+
+		</English>
+
+		<Spanish>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Metabólica</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Alcalosis</AcidosisAlkalosis>
+				<Compensation>Compensada</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hola, siento que me están retorciendo el estómago y he estado vomitando.</Greeting>
+
+			<SignsAndSymptoms>
+				<Element>Dolor es un 6 en una escala de 1 a 10</Element>
+				<Element>Sonidos abdominals aumentados</Element>
+				<Element>Signos vitales: T 99F, P 82, R 14, BP 102/68, O2 Sat 96%</Element>
+			</SignsAndSymptoms>
+
+			<History>
+				<Element>Comió en una cafetería ayer</Element>
+				<Element>Naúseas y vómitos, gran cantidad de fluido verdoso</Element>
+				<Element>Se siente débil</Element>
+			</History>
+
+		</Spanish>
+
+	</Intervention>
+
+
+	<Intervention>
+		
+
+		<English>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Respiratory</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Alkalosis</AcidosisAlkalosis>
+				<Compensation>Partial Compensation</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hello, I'm feeling anxious and I'm having difficulty catching my breath.</Greeting>
+
+			<SignsAndSymptoms>
+				<!--Information received after looking over the patient. Slow and Labored Breathing, Cyanotic Fingertips, etc. Create as many element entries as needed. Copy and paste "<Element> WRITE HERE  </Element>" onto a new line-->
+				<Element>Pain of 0 on scale of 1 - 10</Element>
+				<Element>Hyperventilation</Element>
+				<Element>Dizziness</Element>
+				<Element>Palpitations</Element>
+				<Element>Tingling in arms</Element>
+				<Element>Vital signs: T 98.8F, P 88, R 26, BP 168/90, O2 Sat 94%</Element>
+
+			</SignsAndSymptoms>
+
+			<History>
+				<!--Information about why the patient is here. Broken Leg, Stomach Aches, etc. -->
+				<Element>Forgot essential documents for presentation</Element>
+				<Element>Began feeling anxious</Element>
+				<Element>Catching breath became difficult</Element>
+
+			</History>
+
+		</English>
+
+		<Spanish>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Respiratoria</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Alcalosis</AcidosisAlkalosis>
+				<Compensation>Compensación Parcial</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hola, tengo mucha ansiedad y me cuesta recobrar el aliento.</Greeting>
+
+			<SignsAndSymptoms>
+				<Element>Dolor es un 0 en una escala de 1 a 10</Element>
+				<Element>Hiperventilación</Element>
+				<Element>Mareos</Element>
+				<Element>Palpitaciones</Element>
+				<Element>Hormigeo en los brazos</Element>
+				<Element>Signos vitales: T 98.8°F, P 88, R 26, BP 168/90, O2 Sat 94%</Element>
+			</SignsAndSymptoms>
+
+			<History>
+				<Element>Caminaba a una reunión importante</Element>
+				<Element>Se le olvidaron varios documentos importantes para una presentación que iba a dar</Element>
+				<Element>Empieza a sentirsé ansiosa</Element>
+				<Element>Tiene dificultad en recobrar el aliento</Element>
+			</History>
+
+		</Spanish>
+
+	</Intervention>
+
+	<Intervention>
+		
+
+		<English>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Metabolic</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Acidosis</AcidosisAlkalosis>
+				<Compensation>Compensated</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hello, This is my son. He's irritable, not breastfeeding well, and has loose runny poops.</Greeting>
+
+			<SignsAndSymptoms>
+				<!--Information received after looking over the patient. Slow and Labored Breathing, Cyanotic Fingertips, etc. Create as many element entries as needed. Copy and paste "<Element> WRITE HERE  </Element>" onto a new line-->
+				<Element>Depressed anterior fontanel</Element>
+				<Element>Vital signs: T 99F, P 166, R 34, BP 80/42, O2 Sat 96%</Element>
+
+			</SignsAndSymptoms>
+
+			<History>
+				<!--Information about why the patient is here. Broken Leg, Stomach Aches, etc. -->
+				<Element>Irritable</Element>
+				<Element>Poor Feeding</Element>
+				<Element>Loose Stools</Element>
+
+			</History>
+
+		</English>
+
+		<Spanish>
+
+			<Diagnosis>
+				<RespiratoryMetabolic>Metabólica</RespiratoryMetabolic>
+				<AcidosisAlkalosis>Acidosis</AcidosisAlkalosis>
+				<Compensation>Compensada</Compensation>
+			</Diagnosis>
+
+			<Greeting>Hola, éste es mi hijo. Está irritable, no me toma bien el pecho y hace popo liquido.</Greeting>
+
+			<SignsAndSymptoms>
+				<Element>Fontanela anterior hundida</Element>
+				<Element>Signos Vitales: T 99°F, P 166, R 34, BP 80/42, O2 Sat 96%</Element>
+			</SignsAndSymptoms>
+
+			<History>
+				<Element>Irritable</Element>
+				<Element>Poco apetito</Element>
+				<Element>diarrea</Element>
+			</History>
+
+		</Spanish>
+
+	</Intervention>
+</NursingInterventions>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ABGRush.CSharp", "UnityVS.ABGRush.CSharp.csproj", "{36DBE880-FAC5-D80C-7834-F18E1CB0D017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ABGRush.CSharp.Editor", "UnityVS.ABGRush.CSharp.Editor.csproj", "{6CFC7105-E658-41A3-994A-41B974F6E3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DBE880-FAC5-D80C-7834-F18E1CB0D017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DBE880-FAC5-D80C-7834-F18E1CB0D017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DBE880-FAC5-D80C-7834-F18E1CB0D017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DBE880-FAC5-D80C-7834-F18E1CB0D017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFC7105-E658-41A3-994A-41B974F6E3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFC7105-E658-41A3-994A-41B974F6E3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFC7105-E658-41A3-994A-41B974F6E3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFC7105-E658-41A3-994A-41B974F6E3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

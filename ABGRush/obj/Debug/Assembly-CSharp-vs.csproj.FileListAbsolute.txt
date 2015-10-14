@@ -1,0 +1,13 @@
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Documents\ABG Game Internship\abggame\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ron\Documents\ABG Game Internship\abggame\obj\Debug\Assembly-CSharp.pdb

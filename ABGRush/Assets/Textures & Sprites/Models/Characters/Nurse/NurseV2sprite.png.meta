@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 39cdfc64fdd35c947842f0cc9a19166d
+timeCreated: 1439710591
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NurseV2sprite_0
+    21300002: NurseV2sprite_1
+    21300004: NurseV2sprite_2
+    21300006: NurseV2sprite_3
+    21300008: NurseV2sprite_4
+    21300010: NurseV2sprite_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NurseV2sprite_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 79
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NurseV2sprite_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 84
+        width: 79
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NurseV2sprite_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 84
+        width: 79
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NurseV2sprite_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 95
+        width: 56
+        height: 186
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NurseV2sprite_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 95
+        width: 56
+        height: 186
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NurseV2sprite_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 98
+        width: 77
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

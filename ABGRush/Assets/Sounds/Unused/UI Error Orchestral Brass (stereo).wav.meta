@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: e6bce1ec5012a4b4e857b9fc3ceca3b3
+labels:
+- USFX
+- stereo
+- ui
+- interface
+- warning
+- error
+- denied
+timeCreated: 1439942494
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

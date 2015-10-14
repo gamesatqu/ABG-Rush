@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 1e7aa244b4fd6414bb6e028e88290c7d
+labels:
+- USFX
+- success
+- puzzle
+- accomplishment
+- stereo
+timeCreated: 1439959726
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
