@@ -25,11 +25,6 @@ public class ABG{
 	private float valPHAcidMax = 7.24f, valPHAcidMin = 7.35f, valPHNeutral = 7.4f, valPHBasicMin = 7.45f, valPHBasicMax = 7.58f;
 	private float valCO2AcidMax = 64f, valCO2AcidMin = 45f, valCO2Neutral = 40f, valCO2BasicMin = 35f, valCO2BasicMax = 20f;
 	private float valHCO3AcidMax = 14f, valHCO3AcidMin = 22f, valHCO3Neutral = 24f, valHCO3BasicMin = 26f, valHCO3BasicMax = 42f;
-    //private float valPHLowest = 7.24f, valPHNeutralLow = 7.35f, valPHNeutralHigh = 7.45f, valPHHighest = 7.58f;//PH Values
-    //private float valCO2Lowest = 20f, valCO2NeutralLow = 35f, valCO2NeutralHigh = 45f, valCO2Highest = 64f;//CO2 Values
-    //private float valHCO3Lowest = 14f, valHCO3NeutralLow = 22f, valHCO3NeutralHigh = 26f, valHCO3Highest = 42f;// HCO3 Values
-
-
 	private int diagnosesUsed;
 
 	/// <summary>
@@ -55,12 +50,6 @@ public class ABG{
 			xmlreaderSettings.IgnoreComments = true;
 
 			LoadDiagnosesFromXML();
-			//Debug.Log("The total amount of interventions is: " + diagnoses.Count);
-
-			//foreach (Diagnosis d in diagnoses)
-			//{
-			//	Debug.Log()
-			//}
 		}
 		else
 		{
@@ -69,7 +58,6 @@ public class ABG{
 
 
 		//prepare / shuffle diagnoses
-		//prepare the patients.
 		for (int i = 0; i < diagnoses.Count; i++)
 		{
 			Diagnosis temp = diagnoses[i];
@@ -120,28 +108,18 @@ public class ABG{
 
 			// Don't need to translate here, or ever because the answer is returned in it's translated form.
 
-			////if language manager is available
-			//if (LanguageManager.LanguageManager)
-			//{
-			//	LanguageManager lm = LanguageManager.LanguageManager;
-			//	//translate to current language
-			//	rm = lm.DirectTranslation("ABG", rm);
-			//	aa = lm.DirectTranslation("ABG", aa);
-			//	c = lm.DirectTranslation("ABG", c);
-			//}
-
 			d.AnswerRespiratoryMetabolic = rm;
 			d.AnswerAcidosisAlkalosis = aa;
 			d.AnswerCompensation = c;
 			
 
-            //go through the gauntlet again but this time, pick up the number values.
+            //go through the method again but this time, pick up the number values.
             return DiagnosisAnswerValues(d);
         }
         else
         {
+			//prepare our answer values and comparison values
 			string rm = d.AnswerRespiratoryMetabolic, aa = d.AnswerAcidosisAlkalosis, comp = d.AnswerCompensation;
-			//prepare our comparison values.
 			string r = "Respiratory", m = "Metabolic", alk = "Alkalosis", aci = "Acidosis", uc = "Uncompensated", pc = "Partial Compensation", c = "Compensated";
 
 			//translate the answers if possible
@@ -165,7 +143,7 @@ public class ABG{
             }
             else if (rm == r && aa == aci && comp == pc)
             {
-				Debug.Log("Resp Aci PC");
+				//Debug.Log("Resp Aci PC");
                 d.PH = GenerateDiagnosisValues("PH", -2); d.CO2 = GenerateDiagnosisValues("CO2", -2); d.HCO3 = GenerateDiagnosisValues("HCO3", 2);
             }
             else if (rm == r && aa == aci && comp == c)
@@ -212,10 +190,6 @@ public class ABG{
 
             return d;
         }
-
-        
-
-        //return d;
     }
 
 
@@ -233,7 +207,6 @@ public class ABG{
 		float randomVariance = 0f;	
 		float finalValue = -90f;
 		
-		
         if (value == "PH")
         {
 			Debug.Log("Generating a Diagnosis Value for: " + value + " in range: " + acidneutralbasic);
@@ -243,7 +216,6 @@ public class ABG{
 			basicMin = valPHBasicMin;//should be 7.45
 			basicMax = valPHBasicMax;//should be 7.58
 			randomVariance = .01f;
-			
         }
         else if (value == "CO2")
         {
@@ -253,8 +225,6 @@ public class ABG{
 			basicMin = valCO2BasicMin;//35
 			basicMax = valCO2BasicMax;//20
 			randomVariance = 1f;
-
-			
         }
         else if (value == "HCO3")
         {
@@ -264,8 +234,6 @@ public class ABG{
 			basicMin = valHCO3BasicMin;//26
 			basicMax = valHCO3BasicMax;//42
 			randomVariance = 1f;
-
-			
         }
 
 		//Acidic Range
@@ -281,7 +249,6 @@ public class ABG{
 			{
 				finalValue = Random.Range(acidMax + randomVariance, acidMin - randomVariance);
 			}
-			
 		}
 			//Neutral Acidic Range
 		else if (acidneutralbasic == -1)
@@ -294,9 +261,6 @@ public class ABG{
 			{
 				finalValue = Random.Range(acidMin + randomVariance, neutral - randomVariance);
 			}
-
-			//Debug.Log("Neutral Acidic Range for " + value + " is: " + finalValue);
-			
 		}
 			//Neutral Range
 		else if (acidneutralbasic == 0)
@@ -310,7 +274,6 @@ public class ABG{
 			{
 				finalValue = Random.Range(acidMin + randomVariance, basicMin - randomVariance);
 			}
-			
 		}
 			//Neutral Basic Range
 		else if (acidneutralbasic == 1)
@@ -324,8 +287,6 @@ public class ABG{
 			{
 				finalValue = Random.Range(neutral + randomVariance, basicMin - randomVariance);
 			}
-			//Debug.Log("Neutral Basic Range for " + value + " is: " + finalValue);
-			
 		}
 			//Basic Range
 		else if (acidneutralbasic == 2)
@@ -338,7 +299,6 @@ public class ABG{
 			{
 				finalValue = Random.Range(basicMin + randomVariance, basicMax - randomVariance);
 			}
-			
 		}
 
 		return finalValue;
@@ -567,8 +527,7 @@ public class ABG{
 
 			Diagnosis d = diagnoses[diagnosesUsed];
 			diagnosesUsed++;
-			//diagnoses.Remove(d);
-			//diagnosesInUse.Add(d);
+
 			//randomize the values
 			return DiagnosisAnswerValues(d);
 
@@ -577,18 +536,6 @@ public class ABG{
 		{
 			return RandomDiagnosis();
 		}
-	}
-
-	/// <summary>
-	/// Inform ABG that this Diagnosis is finished.
-	/// </summary>
-	/// <param name="d"></param>
-	public void PatientDiagnosisComplete(Diagnosis d)
-	{
-		//remove the diagnosis because it's no longer in use by a patient.
-		//diagnosesInUse.Remove(d);
-		//add the diagnosis back to the available diagnosis list.
-		//diagnoses.Add(d);
 	}
 
 }
